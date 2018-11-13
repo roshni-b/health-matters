@@ -1,5 +1,5 @@
 # Health Matters - Technica 2018
-# Madhu Sivaraj, Roshni Biswas, Diana Nguyen, Avni Garg
+# Roshni Biswas, Madhu Sivaraj, Diana Nguyen, Avni Garg
 
 ## Inspiration
 What inspired us to build this project was the amount of diagnosis that occurs every day because symptoms are only considered from the perspective of one doctor and not a multitude whose differing opinions could actually lead to a correct diagnosis. Keeping this in mind, we created Health Matters, a self-diagnosing aid, to take in your symptoms and data points such as age and gender and give you an accurate portrayal of what a person at said age and of said gender should look out for. We hope that with this project we are able to bridge the gap between the patient and his or her accurate diagnosis and lead to better preventative medicine.
